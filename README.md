@@ -6,7 +6,7 @@ This is a Django-based Vendor Management System that allows users to manage prod
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/satyajitsjs/Vendor-Management.git
     cd Vendor-Management-System
     ```
 
